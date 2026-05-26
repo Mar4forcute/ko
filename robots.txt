@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mar4forcute.github.io/ko/sitemap.xml

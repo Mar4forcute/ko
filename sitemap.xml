@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://mar4forcute.github.io/ko/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://mar4forcute.github.io/ko/</loc>
+</url>
+<url>
+<loc>https://mar4forcute.github.io/ko/myakiy-znak.html</loc>
+<lastmod>2026-05-21T14:40:05+03:00</lastmod>
+</url>
+<url>
+<loc>https://mar4forcute.github.io/ko/nacionalno-vizvolna-viyna-hmelnickogo.html</loc>
+<lastmod>2026-05-21T16:21:02+03:00</lastmod>
+</url>
+<url>
+<loc>https://mar4forcute.github.io/ko/use-18st.html</loc>
+<lastmod>2026-05-26T20:16:15+03:00</lastmod>
+<image:image>
+<image:loc>https://mar4forcute.github.io/ko/media/posts/4/Znimok-ekrana-2026-05-23-124556.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://mar4forcute.github.io/ko/use-19st.html</loc>
+<lastmod>2026-05-26T21:47:39+03:00</lastmod>
+</url>
+</urlset>

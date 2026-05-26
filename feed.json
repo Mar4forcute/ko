@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Конспекти(все)",
+    "description": "",
+    "home_page_url": "https://mar4forcute.github.io/ko",
+    "feed_url": "https://mar4forcute.github.io/ko/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Марч"
+    },
+    "items": [
+    ]
+}
